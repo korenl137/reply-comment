@@ -1,0 +1,9 @@
+{
+  "name": "reply-comment",
+  "version": "0.2.0",
+  "description": "Quote parts of Claude's reply into your prompt with a comment: /quote opens a pane with the last reply split into paragraphs.",
+  "author": { "name": "Yun Ji" },
+  "homepage": "https://github.com/korenl137/reply-comment",
+  "repository": "https://github.com/korenl137/reply-comment",
+  "license": "MIT"
+}

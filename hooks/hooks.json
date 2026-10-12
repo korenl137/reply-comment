@@ -1,0 +1,4 @@
+{
+  "description": "reply-comment: /quote and a button under each reply open a pane of the reply's paragraphs; picked paragraphs plus a note are appended to the prompt draft",
+  "modules": ["./register.tsx"]
+}

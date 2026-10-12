@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "reply-comment",
+  "description": "reply-comment: quote parts of Claude's reply into your prompt",
+  "owner": { "name": "Yun Ji" },
+  "plugins": [
+    {
+      "name": "reply-comment",
+      "source": "./",
+      "description": "Quote reply paragraphs into the prompt with a comment",
+      "version": "0.2.0",
+      "author": { "name": "Yun Ji" },
+      "category": "productivity",
+      "keywords": ["quote", "reply", "prompt", "mod"]
+    }
+  ]
+}
