@@ -1,5 +1,8 @@
 # reply-comment
 
+> **Superseded.** This plugin is replaced by `reply-tools`, which merges reply-comment and code-copy and lives in the author's private `claude-mods` repository.
+> Distribution stopped on 2026-10-31. This repository is kept for reference only.
+
 Quote parts of Claude's reply into your prompt, with a comment. Nothing is sent: the quote lands in the prompt draft and you press Enter yourself.
 
 - **❝ per paragraph.** In a fullscreen terminal, each paragraph of a reply gets a dim ❝ at its left. Press it and that paragraph is appended to your prompt as a `> ` quote, followed by a `comment: ` line for your answer.
